@@ -1,0 +1,3 @@
+[submodule "lib_model"]
+	path = libraries/lib_model
+	url = https://github.com/williamjosefernandes/lib_model.git

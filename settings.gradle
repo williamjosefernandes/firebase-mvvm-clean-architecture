@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Clean Architecture Firebase"
 include ':app'
+
+include ':lib_model'
+project(':lib_model').projectDir = new File(rootDir, 'libraries/lib_model')
